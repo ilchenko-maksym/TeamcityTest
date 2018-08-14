@@ -11,6 +11,7 @@ namespace ConsoleApp1.Tests
     [TestClass()]
     public class CalCulatorTests
     {
+
         [TestMethod()]
         public void SquareTest()
         {
