@@ -38,6 +38,7 @@ namespace ConsoleApplication3
 
                 Console.ReadKey();
                 Console.Clear();
+                ////
             }
         }
     }
