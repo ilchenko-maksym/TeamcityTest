@@ -12,13 +12,14 @@ namespace ConsoleApplication3
         {
             while (true)
             {
-                Console.WriteLine("Консольный калькулятор (версия 1.0)");
+                Console.WriteLine("Консольный калькулятор (версия 2.0)");
                 Console.WriteLine(' ');
                 Console.WriteLine(@"Выберите арифметическое действие: 
              - Умножение (введите *) 
              - Деление (введите /) 
              - Сложение (введите +) 
              - Вычитание (введите -)");
+                ///////
                 string q = Console.ReadLine();
                 double a, b;
                 Console.WriteLine(' ');
