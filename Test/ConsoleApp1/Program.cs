@@ -18,7 +18,7 @@ namespace ConsoleApp1
     }
     public class CalCulator
     {
-        // Square function   
+        //// Square function   
         public int Square(int num)
         {
             return num * num;
